@@ -5,4 +5,7 @@ public class test{
     public static int Add(int a, int b){
         return a+b;
     }
+    public static void cyh(){
+       System.out.println("this is cyh changed");
+    }
 }
